@@ -1,3 +1,9 @@
+このプログラムは [https://github.com/kaz-mac/m5ime_light](https://github.com/kaz-mac/m5ime_light) に移動しました！
+
+<br><br><br><br><br><br><br><br>
+
+
+
 # M5Stack ATOM MatrixでPCのIMEの状態をLEDで表示するやつ
 
 IMEの日本語入力の状態がオンなのかオフなのかわからなくて、日本語入力したいのに英字になったり、英字入力したいのに日本語になったりして困ってたら、シャポコさんがIMEの状態をシリアルポートに出力するやつを作ってたのを知ったので、ATOM Matrixと組み合わせてLEDをゲーミングPCのように光らせるやつを作ってみました。
